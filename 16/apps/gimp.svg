@@ -24,9 +24,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:object-nodes="false"
-     inkscape:zoom="0.81386721"
-     inkscape:cx="236.52507"
-     inkscape:cy="114.88361"
+     inkscape:zoom="11.313709"
+     inkscape:cx="61.650872"
+     inkscape:cy="10.120466"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
@@ -52,9 +52,9 @@
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;stroke:#655e4b;stroke-width:0.383625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 5.4303618,52.224487 c 6.4928002,3.962109 11.3965712,1.01739 10.1460112,-7.97968 -1.810241,3.308665 -7.3681382,5.503538 -9.7132872,0.807593 -0.1194362,2.546565 -0.286291,4.795165 -0.432724,7.172087 z"
+       d="M 5.4303618,52.224487 C 11.854164,56.144491 16.72253,53.303683 15.614162,44.529588 15.597822,44.153676 15.526102,44.33512 15.394969,44.553028 13.498157,47.560976 8.5465174,49.447781 6.1456313,45.5609 5.8046296,44.700395 5.85892,45.060797 5.8360849,45.607744 5.719299,47.929294 5.5660615,50.021792 5.4303618,52.22449 Z"
        id="path26510"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="ccccccc" />
     <ellipse
        style="fill:#888a85;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.38532;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1011"
