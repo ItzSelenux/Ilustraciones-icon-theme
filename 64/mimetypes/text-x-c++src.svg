@@ -21,9 +21,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-5.6568542"
-     inkscape:cy="4.9055533"
+     inkscape:zoom="2"
+     inkscape:cx="22.75"
+     inkscape:cy="20.25"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
@@ -34,7 +34,7 @@
      fill="#e4e4e4"
      d="M 3.2,0 C 1.4272,0 0,1.4272 0,3.2 V 60.8 C 0,62.5728 1.4272,64 3.2,64 H 48 c 1.7728,0 3.2,-1.4272 3.2,-3.2 V 19.2 L 33.6,17.6 32,0 Z"
      id="path4"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:1.6" />
+     style="fill:#e6e6e6;fill-opacity:1;stroke-width:1.6" />
   <path
      fill="#fafafa"
      d="m 32,0 v 16 c 0,1.76736 1.432688,3.2 3.2,3.2 h 16 z"

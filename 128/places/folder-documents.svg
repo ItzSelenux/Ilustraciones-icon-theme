@@ -42,9 +42,9 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:zoom="32"
-     inkscape:cx="9.0625"
-     inkscape:cy="8.578125"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="36.946329"
+     inkscape:cy="80.78695"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
@@ -65,7 +65,7 @@
        y="17.920704"
        ry="4.9750605" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:7.14624;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:7.14624;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect19452"
        width="105.38168"
        height="21.779329"
@@ -87,17 +87,18 @@
        y="46.30582" />
     <g
        id="g1300"
-       transform="matrix(4.1387748,0,0,4.1387748,47.30459,65.087704)">
+       transform="matrix(4.1387748,0,0,4.1387748,47.30459,65.087704)"
+       style="fill:#e6e6e6">
       <path
          fill="#e4e4e4"
          d="M 0.8,0 C 0.3568,0 0,0.3568 0,0.8 V 15.2 C 0,15.6432 0.3568,16 0.8,16 H 12 c 0.4432,0 0.8,-0.3568 0.8,-0.8 V 4.8 L 8.4,4.4 8,0 Z"
          id="path4"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.4" />
+         style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.4" />
       <path
          fill="#fafafa"
          d="m 8,0 v 4 c 0,0.44184 0.358172,0.8 0.8,0.8 h 4 z"
          id="path10"
-         style="fill:#ffffff;stroke-width:0.4" />
+         style="fill:#e6e6e6;stroke-width:0.4" />
     </g>
   </g>
 </svg>

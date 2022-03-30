@@ -5,8 +5,8 @@
    version="1.1"
    id="svg2"
    width="16"
-   height="15.199093"
-   viewBox="0 0 16 15.199092"
+   height="15.199102"
+   viewBox="0 0 16 15.199102"
    sodipodi:docname="folder-desktop.svg"
    inkscape:export-filename="/home/itszariep/.icons/ilustraciones/16/apps/folder.png"
    inkscape:export-xdpi="435.14099"
@@ -42,9 +42,9 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:zoom="16"
-     inkscape:cx="-0.9375"
-     inkscape:cy="0.21875"
+     inkscape:zoom="4"
+     inkscape:cx="53.875"
+     inkscape:cy="58.625"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
@@ -57,7 +57,7 @@
      id="g8"
      transform="translate(-9.5749264,-17.920704)">
     <rect
-       style="font-variation-settings:'wght' 800;fill:#688050;fill-opacity:1;stroke:none;stroke-width:0.876602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-variation-settings:'wght' 800;fill:#688050;fill-opacity:1;stroke:none;stroke-width:0.8766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3122"
        width="16"
        height="5.4631701"
@@ -65,35 +65,35 @@
        y="17.920704"
        ry="0.62188256" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.893281;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.89328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect19452"
        width="13.17271"
        height="2.7224162"
        x="11.928574"
        y="19.958504" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#8fa876;fill-opacity:1;stroke:#8fa876;stroke-width:0.876602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 800;fill:#8fa876;fill-opacity:1;stroke:#8fa876;stroke-width:0.8766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1518"
-       width="15.108247"
+       width="15.108246"
        height="9.7421722"
        x="10.020921"
        y="22.939323" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#8fa876;fill-opacity:1;stroke:#8fa876;stroke-width:0.876602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 800;fill:#8fa876;fill-opacity:1;stroke:#8fa876;stroke-width:0.8766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1834"
        width="9.2615213"
        height="1.4445229"
        x="15.870332"
        y="21.468843" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#2f2f2f;fill-opacity:1;stroke:#ffffff;stroke-width:1.66032;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:1.66033;stroke-linecap:round;stroke-linejoin:round"
        id="rect1818"
        width="10.713762"
        height="0.1496876"
        x="12.344913"
        y="32.139954" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42227;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.42227;stroke-linecap:round;stroke-linejoin:round"
        id="rect2302"
        width="12.372272"
        height="0.93917906"

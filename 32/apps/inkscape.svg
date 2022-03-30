@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.4666662mm"
+   height="8.3341389mm"
+   viewBox="0 0 8.466666 8.33414"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.56"
+     inkscape:cx="-26.757813"
+     inkscape:cy="13.476563"
+     inkscape:window-width="1440"
+     inkscape:window-height="881"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="WhiteTransparent"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:white;stop-opacity:0"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="BlackTransparent"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:black;stop-opacity:1"
+         offset="0"
+         id="stop12" />
+      <stop
+         style="stop-color:black;stop-opacity:0"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="liquidShade"
+       xlink:href="#BlackTransparent"
+       x1="0"
+       y1="128"
+       x2="0"
+       y2="64"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="liquidSpecular"
+       xlink:href="#WhiteTransparent"
+       x1="0"
+       y1="128"
+       x2="0"
+       y2="76"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="sideSpecular"
+       xlink:href="#WhiteTransparent"
+       x1="80"
+       y1="20"
+       x2="60"
+       y2="40"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="IcecapTip"
+       xlink:href="#WhiteTransparent"
+       x1="60"
+       y1="20"
+       x2="90"
+       y2="50"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1154894,0,0,2.1148276,24.188831,-64.83473)" />
+    <linearGradient
+       id="shinySpecular"
+       xlink:href="#WhiteTransparent"
+       x1="33"
+       y1="35"
+       x2="58"
+       y2="60"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipoutline1">
+      <path
+         id="outline1"
+         d="M 54.1,12.5 12.9,54.7 C -2.7,70.3 23,69 32.3,74.9 36.6,77.7 18.5,81.3 22.2,85 c 3.6,3.7 21.7,7.1 25.3,10.7 3.6,3.7 -7.3,7.6 -3.7,11.3 3.5,3.7 11.9,0.2 13.4,8.6 1.1,6.2 15.4,3.1 21.8,-2.2 4,-3.4 -6.9,-3.4 -3.3,-7.1 9,-9.1 17,-4.1 20.3,-12.5 1.8,-4.5 -13.6,-7.7 -9.5,-10.6 9.8,-6.9 45.8,-10.4 29.2,-27 L 73,12.5 c -5.3,-5 -14,-5 -18.9,0 z m -9.9,64.7 c 0.9,0 30.8,4 19.3,7.1 -4.4,1.2 -24.6,-7.1 -19.3,-7.1 z m 57.2,16.6 c 0,2.1 16.3,3.3 15.4,-0.5 -1.3,-6.4 -13.6,-5.9 -15.4,0.5 z m -69.5,11.1 c 3.7,3.2 9.3,-0.7 11.1,-5.2 -3.6,-4.7 -16.9,0.3 -11.1,5.2 z m 67.5,-6.7 c -4.6,4.2 0.8,8.6 5.3,5.7 1.2,-0.8 -0.1,-4.7 -5.3,-5.7 z" />
+    </clipPath>
+    <filter
+       id="ShadowBlur"
+       filterUnits="userSpaceOnUse"
+       x="0"
+       y="0">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur24" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5785">
+      <stop
+         id="stop5787"
+         offset="0"
+         style="stop-color:#c0cdf9;stop-opacity:1" />
+      <stop
+         id="stop5789"
+         offset="1"
+         style="stop-color:#07092d;stop-opacity:0.28804347" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9086">
+      <use
+         id="use9088"
+         xlink:href="#outline1"
+         class="low-specularity"
+         style="fill:#ffffff;fill-opacity:1"
+         x="0"
+         y="0"
+         width="400"
+         height="300"
+         transform="translate(1.009546e-6)" />
+    </clipPath>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="60"
+       x2="58"
+       y1="35"
+       x1="33"
+       xlink:href="#WhiteTransparent"
+       id="shinySpecular-4"
+       gradientTransform="matrix(2.1349181,0,0,2.1342502,-94.250967,119.13185)" />
+    <linearGradient
+       id="IcecapTip-64"
+       xlink:href="#WhiteTransparent"
+       x1="60"
+       y1="20"
+       x2="90"
+       y2="50"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipoutline1-9">
+      <path
+         id="outline1-5"
+         d="M 54.1,12.5 12.9,54.7 C -2.7,70.3 23,69 32.3,74.9 36.6,77.7 18.5,81.3 22.2,85 c 3.6,3.7 21.7,7.1 25.3,10.7 3.6,3.7 -7.3,7.6 -3.7,11.3 3.5,3.7 11.9,0.2 13.4,8.6 1.1,6.2 15.4,3.1 21.8,-2.2 4,-3.4 -6.9,-3.4 -3.3,-7.1 9,-9.1 17,-4.1 20.3,-12.5 1.8,-4.5 -13.6,-7.7 -9.5,-10.6 9.8,-6.9 45.8,-10.4 29.2,-27 L 73,12.5 c -5.3,-5 -14,-5 -18.9,0 z m -9.9,64.7 c 0.9,0 30.8,4 19.3,7.1 -4.4,1.2 -24.6,-7.1 -19.3,-7.1 z m 57.2,16.6 c 0,2.1 16.3,3.3 15.4,-0.5 -1.3,-6.4 -13.6,-5.9 -15.4,0.5 z m -69.5,11.1 c 3.7,3.2 9.3,-0.7 11.1,-5.2 -3.6,-4.7 -16.9,0.3 -11.1,5.2 z m 67.5,-6.7 c -4.6,4.2 0.8,8.6 5.3,5.7 1.2,-0.8 -0.1,-4.7 -5.3,-5.7 z" />
+    </clipPath>
+    <filter
+       id="ShadowBlur-0"
+       filterUnits="userSpaceOnUse"
+       x="0"
+       y="0">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur24-4" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9086-1">
+      <use
+         id="use9088-7"
+         xlink:href="#outline1-5"
+         class="low-specularity"
+         style="fill:#ffffff;fill-opacity:1"
+         x="0"
+         y="0"
+         width="400"
+         height="300"
+         transform="translate(1.009546e-6)" />
+    </clipPath>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="60"
+       x2="58"
+       y1="35"
+       x1="33"
+       xlink:href="#WhiteTransparent"
+       id="shinySpecular-4-2"
+       gradientTransform="matrix(1.009184,0,0,1.009184,-0.3890738,-0.3831933)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40.020599,47.401062)">
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc"
+       style="fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:0.0748985;stroke-opacity:1"
+       d="m 43.512623,-47.08231 -3.086292,3.160213 c -1.168596,1.168231 0.756591,1.070879 1.453254,1.512709 0.322113,0.209682 -1.033758,0.479274 -0.756591,0.756354 0.269676,0.27708 1.625547,0.531695 1.895223,0.801286 0.269676,0.277081 -0.546843,0.569138 -0.277167,0.846219 0.262185,0.27708 0.891429,0.01498 1.003794,0.644024 0.0824,0.464297 1.153613,0.232149 1.633038,-0.16475 0.29964,-0.254615 -0.516879,-0.254615 -0.247203,-0.531695 0.674189,-0.681468 1.27347,-0.307035 1.520673,-0.936082 0.134837,-0.33699 -1.018777,-0.576626 -0.711646,-0.793797 0.734119,-0.516718 3.430878,-0.778821 2.187373,-2.021938 l -3.198658,-3.272543 c -0.397022,-0.374433 -1.048739,-0.374433 -1.415798,0 z"
+       id="use7631" />
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       style="fill:none;stroke-width:0.0748985"
+       d="m 43.512623,-47.08231 -3.086292,3.160213 c -1.168596,1.168231 0.756591,1.070879 1.453254,1.512709 0.322113,0.209682 -1.033758,0.479274 -0.756591,0.756354 0.269676,0.27708 1.625547,0.531695 1.895223,0.801286 0.269676,0.277081 -0.546843,0.569138 -0.277167,0.846219 0.262185,0.27708 0.891429,0.01498 1.003794,0.644024 0.0824,0.464297 1.153613,0.232149 1.633038,-0.16475 0.29964,-0.254615 -0.516879,-0.254615 -0.247203,-0.531695 0.674189,-0.681468 1.27347,-0.307035 1.520673,-0.936082 0.134837,-0.33699 -1.018777,-0.576626 -0.711646,-0.793797 0.734119,-0.516718 3.430878,-0.778821 2.187373,-2.021938 l -3.198658,-3.272543 c -0.397022,-0.374433 -1.048739,-0.374433 -1.415798,0 z m 3.543243,6.088278 c 0,0.157262 1.221033,0.247126 1.153614,-0.03745 -0.09738,-0.479274 -1.018777,-0.441832 -1.153614,0.03745 z m -5.206245,0.831241 c 0.277167,0.239636 0.696663,-0.05242 0.831501,-0.38941 -0.269676,-0.351967 -1.265979,0.02247 -0.831501,0.38941 z m 5.056425,-0.50174 c -0.344586,0.314524 0.05993,0.644025 0.397023,0.426853 0.08989,-0.05991 -0.0075,-0.351967 -0.397023,-0.426853 z"
+       id="use7639" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 44.741146,-46.85765 1.221034,1.243117 c 0.112365,0.11233 0.112365,0.344478 0.04495,0.411876 l -0.606771,-0.494252 -0.119856,0.7264 -0.501897,-0.269591 -0.816519,0.516717 -0.269676,-1.085855 -0.434478,0.943571 -1.086195,-0.0075 c -0.209748,0 -0.179784,-0.217171 0.03745,-0.434342 0.426987,-0.471786 1.258488,-1.273072 1.520674,-1.550153 0.269675,-0.27708 0.741609,-0.269591 1.011284,0 z"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.0748985"
+       class="full-specularity"
+       id="icecap-7" />
+  </g>
+  <style
+     type="text/css"
+     id="style26">
+	.specularity {opacity:0.5;}
+	.low-specularity {opacity:0.25;}
+	.full-specularity {opacity:1;}
+	.black {fill:#000000;}
+	.white {fill:#ffffff;}
+	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
+	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
+	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
+       	.base-shadow 	{fill:black;opacity:75;}
+	</style>
+  <style
+     type="text/css"
+     id="style26-7">
+	.specularity {opacity:0.5;}
+	.low-specularity {opacity:0.25;}
+	.full-specularity {opacity:1;}
+	.black {fill:#000000;}
+	.white {fill:#ffffff;}
+	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
+	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
+	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
+       	.base-shadow 	{fill:black;opacity:75;}
+	</style>
+</svg>

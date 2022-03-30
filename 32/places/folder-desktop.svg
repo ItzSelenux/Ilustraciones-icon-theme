@@ -42,9 +42,9 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:zoom="16"
-     inkscape:cx="-0.9375"
-     inkscape:cy="0.21875"
+     inkscape:zoom="4"
+     inkscape:cx="53.875"
+     inkscape:cy="58.625"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
@@ -65,7 +65,7 @@
        y="17.920704"
        ry="1.2437651" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.78656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:1.78656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect19452"
        width="26.345421"
        height="5.4448323"
@@ -74,7 +74,7 @@
     <rect
        style="font-variation-settings:'wght' 800;fill:#8fa876;fill-opacity:1;stroke:#8fa876;stroke-width:1.7532;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1518"
-       width="30.216494"
+       width="30.216492"
        height="19.484344"
        x="10.466915"
        y="27.957943" />
@@ -86,19 +86,19 @@
        x="22.165737"
        y="25.016983" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#2f2f2f;fill-opacity:1;stroke:#ffffff;stroke-width:3.32064;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:3.32065;stroke-linecap:round;stroke-linejoin:round"
        id="rect1818"
        width="21.427525"
        height="0.29937521"
        x="15.114899"
-       y="46.359203" />
+       y="46.3592" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84454;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.84454;stroke-linecap:round;stroke-linejoin:round"
        id="rect2302"
        width="24.744543"
        height="1.8783581"
        x="13.452229"
-       y="46.430508"
+       y="46.430504"
        ry="0" />
   </g>
 </svg>

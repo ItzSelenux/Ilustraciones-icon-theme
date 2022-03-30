@@ -6,7 +6,7 @@
    id="svg2"
    width="32"
    height="30.398184"
-   viewBox="0 0 32 30.398182"
+   viewBox="0 0 32 30.39818"
    sodipodi:docname="folder.svg"
    inkscape:export-filename="/home/itszariep/.icons/ilustraciones/16/apps/folder.png"
    inkscape:export-xdpi="435.14099"
@@ -42,9 +42,9 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:zoom="1.7843398"
-     inkscape:cx="-1.1208628"
-     inkscape:cy="12.049275"
+     inkscape:zoom="2.5234375"
+     inkscape:cx="69.151703"
+     inkscape:cy="30.315789"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
@@ -65,7 +65,7 @@
        y="17.920704"
        ry="1.2437651" />
     <rect
-       style="font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.78656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 800;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:1.78656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect19452"
        width="26.345421"
        height="5.4448323"
@@ -74,7 +74,7 @@
     <rect
        style="font-variation-settings:'wght' 800;fill:#8fa876;fill-opacity:1;stroke:#8fa876;stroke-width:1.7532;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1518"
-       width="30.216494"
+       width="30.216492"
        height="19.484344"
        x="10.466915"
        y="27.957943" />
