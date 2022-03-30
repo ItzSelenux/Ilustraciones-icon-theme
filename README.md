@@ -1,5 +1,5 @@
-# pixelitos-icon-theme
- 16-bit style icon theme
+# Illustraciones-icon-theme
+ flat icon pack inspired on <a href="https://github.com/ItzSelenux/pixelitos-icon-theme">Pixelitos Icon Theme</a>
   ## Note
-  - pixelitos-icon-theme is under constantly development,
+  - 'Ilustraciones' is under constantly development,
  if you want a icon to be added, please make an issue
