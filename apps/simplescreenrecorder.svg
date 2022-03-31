@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="32.000004"
-   height="32.000057"
-   viewBox="0 0 32.000005 32.000056"
+   width="63.999996"
+   height="64.000099"
+   viewBox="0 0 63.999999 64.000097"
    version="1.1"
    id="svg5"
    sodipodi:docname="simplescreenrecorder.svg"
@@ -674,45 +674,45 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-207.89334,64.256334)">
+     transform="translate(-207.89334,64.256332)">
     <path
-       style="fill:#69a016;fill-opacity:1;stroke:none;stroke-width:2.47225px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 223.89335,-48.256307 c -2.2344,13.502905 -9.22122,9.514673 -11.78954,10.012501 -3.83928,-4.357101 -7.62818,-20.898539 12.26098,-25.458641 z"
+       style="fill:#69a016;fill-opacity:1;stroke:none;stroke-width:4.9445px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 239.89335,-32.256283 c -4.4688,27.0058077 -18.44243,19.029344 -23.57908,20.025 -7.67855,-8.714201 -15.25635,-41.797075 24.52196,-50.917279 z"
        id="path21753"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#e25252;fill-opacity:1;stroke:none;stroke-width:1.48336;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 224.36479,-63.702447 c -2.59824,5.480304 -1.55535,10.466008 -0.47144,15.44614 l 12.52663,8.947704 c 5.12167,-11.766356 1.98386,-20.247859 -12.05519,-24.393844 z"
+       style="fill:#e25252;fill-opacity:1;stroke:none;stroke-width:2.96671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 240.83623,-63.148562 c -5.19648,10.960608 -3.11069,20.932015 -0.94288,30.892279 l 25.05327,17.895407 c 10.24333,-23.532711 3.96772,-40.495716 -24.11039,-48.787686 z"
        id="path20908"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:2.47225px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 212.10381,-38.243806 c 3.2552,-0.513912 9.51758,-3.499141 11.78954,-10.012501 9.16907,2.299285 10.09046,5.727131 12.52663,8.947704 -8.47143,8.989376 -16.49153,7.332158 -24.31617,1.064797 z"
+       style="fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:4.9445px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 216.31427,-12.231283 c 6.51041,-1.027824 19.03517,-6.998281 23.57908,-20.025 18.33815,4.598569 20.18093,11.454261 25.05327,17.895407 -16.94287,17.978749 -32.98306,14.66431426 -48.63235,2.129593 z"
        id="path22659"
        sodipodi:nodetypes="cccc" />
     <ellipse
-       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:1.49924;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:2.99847;stroke-miterlimit:4;stroke-dasharray:none"
        id="path20756"
-       cx="223.89334"
-       cy="48.256306"
-       rx="15.250382"
-       ry="15.250408"
+       cx="239.89334"
+       cy="32.256283"
+       rx="30.500763"
+       ry="30.500814"
        transform="scale(1,-1)" />
     <ellipse
-       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.49924;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.99847;stroke-miterlimit:4;stroke-dasharray:none"
        id="path47674"
-       cx="223.89334"
-       cy="48.256306"
+       cx="239.89334"
+       cy="32.256283"
        transform="scale(1,-1)"
-       rx="4.4917397"
-       ry="4.338913" />
+       rx="8.9834785"
+       ry="8.677825" />
     <ellipse
-       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:1.49924;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:2.99847;stroke-miterlimit:4;stroke-dasharray:none"
        id="path49937"
-       cx="223.89334"
-       cy="48.256306"
+       cx="239.89334"
+       cy="32.256283"
        transform="scale(1,-1)"
-       rx="7.9291987"
-       ry="7.6594167" />
+       rx="15.858397"
+       ry="15.318832" />
   </g>
 </svg>

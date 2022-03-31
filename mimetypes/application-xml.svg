@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="25.6"
-   height="32"
-   viewBox="0 0 25.6 32"
+   width="51.200001"
+   height="64"
+   viewBox="0 0 51.2 64"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
@@ -107,14 +107,14 @@
          transform="matrix(0.125,0,0,0.125,23.164883,76.619583)">
         <path
            fill="#e4e4e4"
-           d="M 6.4,0 C 2.8544,0 0,2.8544 0,6.4 v 115.2 c 0,3.5456 2.8544,6.4 6.4,6.4 H 96 c 3.5456,0 6.4,-2.8544 6.4,-6.4 V 38.4 L 67.2,35.2 64,0 Z"
+           d="M 12.8,0 C 5.7088,0 0,5.7088 0,12.8 V 243.2 C 0,250.2912 5.7088,256 12.8,256 H 192 c 7.0912,0 12.8,-5.7088 12.8,-12.8 V 76.8 L 134.4,70.4 128,0 Z"
            id="path4"
-           style="fill:#e6e6e6;fill-opacity:1;stroke-width:3.2" />
+           style="fill:#e6e6e6;fill-opacity:1;stroke-width:6.4" />
         <path
            fill="#fafafa"
-           d="m 64,0 v 32 c 0,3.53472 2.865375,6.4 6.4,6.4 h 32 z"
+           d="m 128,0 v 64 c 0,7.06944 5.73075,12.8 12.8,12.8 h 64 z"
            id="path10"
-           style="fill:#999999;stroke-width:3.2" />
+           style="fill:#999999;stroke-width:6.4" />
         <g
            color-rendering="auto"
            color-interpolation-filters="linearRGB"
@@ -124,20 +124,20 @@
            color-interpolation="sRGB"
            color="#000000"
            id="g82456"
-           transform="matrix(8,0,0,8,-2223.0958,-3434.156)" />
+           transform="matrix(16,0,0,16,-4446.1916,-6868.312)" />
         <path
            opacity="0.75"
            color-interpolation-filters="linearRGB"
            color="#000000"
            image-rendering="auto"
            color-rendering="auto"
-           d="M 58.33716,54.63961 42.938875,112.11539 H 48.36772 L 63.948885,54.681405 Z M 28.723025,65.08975 13.251588,81.5226 11.558667,83.340925 13.251588,85.1488 28.628975,101.67047 32.364895,98.039045 18.669989,83.340925 32.458952,68.7264 Z m 46.331685,1.478695 -3.735925,3.631425 13.788965,14.614525 -13.694915,14.69812 3.73593,3.631425 15.377375,-16.52167 1.69293,-1.807875 -1.69293,-1.818325 z"
+           d="M 116.67432,109.27922 85.87775,224.23078 h 10.85769 l 31.16233,-114.86797 z m -59.22827,20.90028 -30.942874,32.8657 -3.385842,3.63665 3.385842,3.61575 30.754774,33.04334 7.47184,-7.26285 -27.389812,-29.39624 27.577927,-29.22905 z m 92.66337,2.95739 -7.47185,7.26285 27.57793,29.22905 -27.38983,29.39624 7.47186,7.26285 30.75475,-33.04334 3.38586,-3.61575 -3.38586,-3.63665 z"
            color-interpolation="sRGB"
            text-rendering="auto"
            fill="#ffffff"
            shape-rendering="auto"
            id="path82460"
-           style="opacity:1;fill:#7137c8;fill-opacity:1;stroke:#7137c8;stroke-width:8.30535;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#7137c8;fill-opacity:1;stroke:#7137c8;stroke-width:16.6107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="ccccccccccccccccccccccc" />
       </g>
       <g

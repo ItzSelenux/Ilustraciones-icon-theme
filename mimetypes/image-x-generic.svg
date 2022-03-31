@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg2"
-   width="16"
-   height="16.005033"
-   viewBox="0 0 16 16.005033"
+   width="64"
+   height="64.020134"
+   viewBox="0 0 63.999999 64.020133"
    sodipodi:docname="viewnior.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -40,7 +40,7 @@
      transform="translate(-2.1815887,3.7857567)">
     <g
        id="g846"
-       transform="matrix(0.12500004,0,0,0.12500004,2.0039389,-3.8833087)"
+       transform="matrix(0.50000015,0,0,0.50000015,1.4709895,-4.1759646)"
        style="opacity:1">
       <path
          style="fill:#162039;fill-opacity:1;stroke:none;stroke-width:6.41124;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

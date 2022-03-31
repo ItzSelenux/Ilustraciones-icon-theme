@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="32"
-   height="30.266592"
-   viewBox="0 0 32 30.266592"
+   width="64"
+   height="60.53318"
+   viewBox="0 0 64 60.533181"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
@@ -24,13 +24,13 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="23.125"
-     inkscape:cy="25.375"
+     inkscape:cx="78.625"
+     inkscape:cy="82.375"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
@@ -47,7 +47,7 @@
      id="layer1"
      transform="translate(380.94353,74.167061)">
     <g
-       transform="matrix(0.14407283,0,0,-0.14407283,-350.84496,-53.554609)"
+       transform="matrix(0.28814565,0,0,-0.28814565,-320.7464,-32.942158)"
        style="stroke-width:0.8841"
        id="g895">
       <path
@@ -56,7 +56,7 @@
          id="path893" />
     </g>
     <g
-       transform="matrix(0.14407283,0,0,-0.14407283,-379.03534,-62.051212)"
+       transform="matrix(0.28814565,0,0,-0.28814565,-377.12715,-49.935363)"
        style="stroke-width:0.8841"
        id="g899">
       <path
@@ -66,7 +66,7 @@
          sodipodi:nodetypes="cccccccssccccccccccccccccccccccsccscccccccccccccc" />
     </g>
     <g
-       transform="matrix(0.14407283,0,0,-0.14407283,-355.52,-51.975031)"
+       transform="matrix(0.28814565,0,0,-0.28814565,-330.09648,-29.783002)"
        style="stroke-width:0.8841"
        id="g903">
       <path
@@ -75,7 +75,7 @@
          id="path901" />
     </g>
     <g
-       transform="matrix(0.14407283,0,0,-0.14407283,-369.18845,-58.599069)"
+       transform="matrix(0.28814565,0,0,-0.28814565,-357.43337,-43.031077)"
        style="stroke-width:0.8841"
        id="g907">
       <path
@@ -84,7 +84,7 @@
          id="path905" />
     </g>
     <g
-       transform="matrix(0.14407283,0,0,-0.14407283,-369.94002,-58.420729)"
+       transform="matrix(0.28814565,0,0,-0.28814565,-358.93652,-42.674398)"
        style="stroke-width:0.8841"
        id="g911">
       <path
@@ -93,7 +93,7 @@
          id="path909" />
     </g>
     <g
-       transform="matrix(0.14407283,0,0,-0.14407283,-360.69185,-58.599069)"
+       transform="matrix(0.28814565,0,0,-0.28814565,-340.44017,-43.031077)"
        style="stroke-width:0.8841"
        id="g919">
       <path
@@ -102,7 +102,7 @@
          id="path917" />
     </g>
     <g
-       transform="matrix(0.14407283,0,0,-0.14407283,-359.92754,-58.420729)"
+       transform="matrix(0.28814565,0,0,-0.28814565,-338.91155,-42.674398)"
        style="stroke-width:0.8841"
        id="g923">
       <path
@@ -111,12 +111,12 @@
          id="path921" />
     </g>
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.573235"
+       style="fill:#ffffff;stroke:none;stroke-width:1.14647"
        id="rect6747"
-       width="2.2549715"
-       height="4.7947965"
-       x="-365.88754"
-       y="-59.972469"
-       ry="1.2409979" />
+       width="4.509943"
+       height="9.5895929"
+       x="-350.83154"
+       y="-45.777878"
+       ry="2.4819958" />
   </g>
 </svg>
