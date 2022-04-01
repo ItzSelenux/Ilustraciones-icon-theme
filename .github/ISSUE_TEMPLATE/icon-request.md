@@ -2,7 +2,7 @@
 name: Icon Request
 about: Suggest an idea for this project
 title: "<Program Name> Icon Request"
-labels: good first issue
+labels: Icon Request
 assignees: ''
 
 ---
