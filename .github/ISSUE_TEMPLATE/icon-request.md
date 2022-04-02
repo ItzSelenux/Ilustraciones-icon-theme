@@ -1,6 +1,6 @@
 ---
 name: Icon Request
-about: Suggest an idea for this project
+about: Request an icon
 title: "<Program Name> Icon Request"
 labels: Icon Request
 assignees: ''
