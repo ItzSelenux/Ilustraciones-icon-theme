@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64.000275"
+   height="64"
+   viewBox="0 0 64.000275 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="opera.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.59814815"
+     inkscape:cx="365.29412"
+     inkscape:cy="-59.349845"
+     inkscape:window-width="1440"
+     inkscape:window-height="881"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-594.93485,-598.27863)">
+    <path
+       style="font-variation-settings:'wght' 100;fill:#f23845;fill-opacity:1;stroke:#f23845;stroke-width:1.24162;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 617.47501,648.80062 c 30.34241,18.9712 35.98609,-50.67159 2.42722,-39.67214 7.08283,-6.52751 17.2831,-7.01001 28.47125,-1.80256 5.70791,5.7405 19.11524,24.69695 0.14762,45.8133 -12.68651,4.37636 -23.80987,4.85954 -31.04609,-4.3386 z"
+       id="path6216"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path1533"
+       style="font-variation-settings:'wght' 100;fill:#c0191f;fill-opacity:1;stroke:#c0191f;stroke-width:1.24162;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 626.38468,598.90535 c -1.03998,0.0191 -2.07931,0.0832 -3.11827,0.18665 -35.51299,3.53725 -35.77151,50.10132 -7.1841,60.48515 9.50958,3.45417 21.01677,3.47309 32.43869,-6.4379 -53.1303,18.62635 -46.09845,-67.77665 -0.14733,-45.81295 -7.4,-6.46698 -14.70912,-8.55474 -21.98899,-8.42095 z"
+       sodipodi:nodetypes="sssccs" />
+  </g>
+</svg>
