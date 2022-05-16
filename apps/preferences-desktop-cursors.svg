@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="42.834164mm"
-   height="72.221153mm"
-   viewBox="0 0 42.834164 72.221155"
+   width="64mm"
+   height="64mm"
+   viewBox="0 0 64.000001 64.000002"
    version="1.1"
    id="svg5"
    inkscape:export-filename="/home/itszariep/bitmap.png"
@@ -27,8 +27,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.6277344"
-     inkscape:cx="40.547155"
-     inkscape:cy="142.22222"
+     inkscape:cx="144.06527"
+     inkscape:cy="154.50924"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
@@ -41,22 +41,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-408.29318,-366.67713)" />
+     transform="translate(-408.29316,-366.67713)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="lick"
      style="display:inline"
-     transform="translate(-408.29318,-366.67713)" />
+     transform="translate(-408.29316,-366.67713)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="mosue"
      style="display:inline"
-     transform="translate(-408.29318,-366.67713)">
+     transform="translate(-408.29316,-366.67713)">
     <path
-       style="fill:#131313;stroke:#ffffff;stroke-width:3.333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 425.18348,414.43344 c -5.64338,4.89585 -10.3486,10.61446 -15.155,16.29457 -0.0229,-20.79487 -0.0459,-41.58974 -0.0688,-62.38461 l 39.50136,39.24135 c -3.55932,0.43174 -15.83347,3.47909 -15.83347,3.47909 0,0 10.27396,17.63064 7.42607,21.03584 -1.37102,1.63932 -4.99347,7.07758 -6.47335,4.41414 -3.43645,-7.7705 -6.01832,-14.1093 -9.39681,-22.08038 z"
+       style="fill:#131313;stroke:#ffffff;stroke-width:2.95359;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 436.82494,408.99719 c -5.00098,4.33854 -9.17059,9.40619 -13.42986,14.43971 -0.0203,-18.42772 -0.0407,-36.85545 -0.061,-55.28318 l 35.0048,34.77439 c -3.15416,0.38259 -14.0311,3.08306 -14.0311,3.08306 0,0 9.10444,15.62369 6.58074,18.64126 -1.21496,1.45271 -4.42505,6.27192 -5.73647,3.91167 -3.04527,-6.88596 -5.33324,-12.5032 -8.32714,-19.56691 z"
        id="path22576"
        sodipodi:nodetypes="cccccscc" />
   </g>

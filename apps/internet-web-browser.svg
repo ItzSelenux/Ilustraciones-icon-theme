@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="internet-web-browser.svg"
+   sodipodi:docname="org.xfce.webbrowser.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,14 +26,14 @@
      showgrid="false"
      inkscape:snap-object-midpoints="true"
      inkscape:zoom="6.5109376"
-     inkscape:cx="2.9949604"
-     inkscape:cy="31.255099"
+     inkscape:cx="24.190064"
+     inkscape:cy="31.715862"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g982" />
+     inkscape:current-layer="g55144" />
   <defs
      id="defs2">
     <clipPath
@@ -693,15 +693,10 @@
        id="g55144"
        transform="matrix(1.0999634,0,0,1.0999634,58.6246,186.78425)"
        style="stroke:#000000;stroke-opacity:1">
-      <rect
-         width="14.983319"
-         x="11.075699"
-         y="11.075699"
-         fill="url(#c)"
-         rx="7.4916596"
-         height="14.983319"
+      <path
          id="rect54691-3"
-         style="fill:#1486ff;fill-opacity:1;stroke:none;stroke-width:0.810503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+         style="fill:#1486ff;stroke:none;stroke-width:0.810503"
+         d="m 18.567358,11.075699 c 4.15038,0 7.49166,3.34128 7.49166,7.491659 0,4.15038 -3.34128,7.49166 -7.49166,7.49166 -4.150379,0 -7.491659,-3.34128 -7.491659,-7.49166 0,-4.150379 3.34128,-7.491659 7.491659,-7.491659 z" />
       <g
          id="g982">
         <g
