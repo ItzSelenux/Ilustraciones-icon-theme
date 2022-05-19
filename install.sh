@@ -20,10 +20,10 @@ DIR="${xdg}/icons/ilustraciones/"
             cp -r ./* "${DIR}"
             echo "done"
         
-
 #if no
 #########################
         elif [ x${a} = x"n" ]
             then
             echo "ok, operation cancelled"
+
 fi
