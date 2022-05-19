@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="51.200001"
+   width="64"
    height="64"
-   viewBox="0 0 51.2 64"
+   viewBox="0 0 63.999999 64"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="18.5"
-     inkscape:cy="46.9375"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="38.095378"
+     inkscape:cy="38.448931"
      inkscape:window-width="1440"
      inkscape:window-height="881"
      inkscape:window-x="-4"
@@ -43,7 +43,7 @@
      transform="translate(-57.434056,-64.22291)">
     <g
        id="g837"
-       transform="translate(57.434056,64.22291)">
+       transform="translate(64.581136,64.351587)">
       <path
          fill="#e4e4e4"
          d="M 3.2,0 C 1.4272,0 0,1.4272 0,3.2 V 60.8 C 0,62.5728 1.4272,64 3.2,64 H 48 c 1.7728,0 3.2,-1.4272 3.2,-3.2 V 19.2 L 33.6,17.6 32,0 Z"
@@ -57,7 +57,7 @@
     </g>
     <g
        id="g165387"
-       transform="matrix(1.1717254,0,0,1.1775873,-76.562623,-38.147793)">
+       transform="matrix(1.1717254,0,0,1.1775873,-69.415543,-38.019116)">
       <circle
          style="fill:#8fa876;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;paint-order:stroke fill markers"
          id="path1224"
