@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Ilustraciones
 Comment=Ilustraciones by ItzSelenux
-Inherits=Adwaita, breeze, hicolor
+Inherits=breeze-dark, Adwaita, hicolor
 
 Example=folder
 
