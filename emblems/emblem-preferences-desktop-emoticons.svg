@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="preferences-desktop-emoticons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:zoom="0.95164788"
+     inkscape:cx="-72.50581"
+     inkscape:cy="-96.149009"
+     inkscape:window-width="1440"
+     inkscape:window-height="881"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1224.0707,668.58606)">
+    <circle
+       style="fill:#ffcc4d;fill-opacity:1;stroke-width:0.460378;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;paint-order:stroke fill markers"
+       id="path892"
+       cx="1256.0707"
+       cy="-636.58606"
+       r="32" />
+    <path
+       style="opacity:1;fill:#3f3f3f;fill-opacity:1;stroke:#3f3f3f;stroke-width:1.46565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 1244.1083,-626.15307 c -1.2191,14.00113 20.7346,18.45926 25.609,0.34197 -10.7687,8.49826 -16.4414,9.47067 -25.609,-0.34197 z"
+       id="path1072-6"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       style="fill:#3f3f3f;fill-opacity:1;stroke:#3f3f3f;stroke-width:0.0871284;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path892-2"
+       cx="1244.3843"
+       cy="-644.65857"
+       r="6.0561261" />
+    <circle
+       style="fill:#3f3f3f;fill-opacity:1;stroke-width:0.0871284;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;paint-order:stroke fill markers"
+       id="circle1018"
+       cx="1268.2375"
+       cy="-644.65857"
+       r="6.0561261" />
+  </g>
+</svg>
